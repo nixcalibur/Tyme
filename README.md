@@ -74,6 +74,4 @@ proj.java
 * Payroll Calculation Dialog
 * Attendance Records Table
 
-## Author
-
-Developed as a personal Java project to learn desktop application development, data persistence, and payroll management concepts.
+Thanks
